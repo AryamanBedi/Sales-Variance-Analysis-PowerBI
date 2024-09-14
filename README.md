@@ -3,9 +3,12 @@
 ## Files Included
 
 - **`Sales_Dashboard.pbix`**: The Power BI file containing the interactive dashboard with various sales metrics and visualizations.
-- **`SalesData.xlsx`**: The Excel file with the sales data used for the analysis.
 
 # Sales and Variance Analysis on Power BI
+
+## Data Source
+
+The data was sourced from Kaggle and is available at this link: https://www.kaggle.com/datasets/nhiyen/sales-data-fy-2020-2021
 
 ## Overview
 
